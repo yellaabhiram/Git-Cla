@@ -2,3 +2,5 @@ git push
 git pull
 git init
 git clone
+git status
+git merge
